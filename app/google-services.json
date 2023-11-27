@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "991808299284",
+    "project_id": "notes-4deed",
+    "storage_bucket": "notes-4deed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991808299284:android:f5846c07b3b3436a336201",
+        "android_client_info": {
+          "package_name": "firstcom.poorva.mangonotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPYyRfmLQ2aorHmA_N0BAJTRRGUYjlyYk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
